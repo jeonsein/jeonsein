@@ -5,7 +5,6 @@
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-  <br>
 	<h4>✨ Platforms & Languages ✨</h4>
 </div>
 <div align="center">
