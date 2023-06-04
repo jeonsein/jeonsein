@@ -36,10 +36,10 @@
 <br><br>
 
 <div align=center>
-	<h3>👩🏻‍💻 Portfolio & Study 👩🏻‍💻</h3>
+	<h3>👩🏻‍💻 Portfolio 👩🏻‍💻</h3>
 </div>
 <div align=center>
-	<a href="https://sengnapersonal.notion.site/Dash-Board-76dbcd49a237453c977562004dad7b2b">
+	<a href="https://sengnapersonal.notion.site/Portfolio-7f2f835d25214a63b34449bb146869f2?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
