@@ -35,7 +35,7 @@
 <br><br>
 
 <div align=center>
-	<h3>👩🏻‍💻 Portfolio 👩🏻‍💻</h3>
+	<h3>👩🏻‍💻 About Me 👩🏻‍💻</h3>
 </div>
 <div align=center>
 	<a href="https://sengnapersonal.notion.site/Portfolio-7f2f835d25214a63b34449bb146869f2?pvs=4">
